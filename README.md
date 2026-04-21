@@ -21,9 +21,9 @@ Sample name | Description
 
 ## Resources
 
-* **Product page:** [Syncfusion PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)
+* **Product page:** [Syncfusion PDF Framework](https://www.syncfusion.com/document-sdk/net-pdf-library)
 * **Documentation page:** [Syncfusion .NET PDF library](https://help.syncfusion.com/document-processing/pdf/pdf-library/net/overview)
-* **Online demo:** [Syncfusion .NET PDF library - Online demos](https://ej2.syncfusion.com/aspnetcore/pdf/default#/fluent2)
+* **Online demo:** [Syncfusion .NET PDF library - Online demos](https://document.syncfusion.com/demos/pdf/default#/tailwind3)
 * **Blog:** [Syncfusion .NET PDF library - Blog](https://www.syncfusion.com/blogs/category/pdf)
 * **Knowledge Base:** [Syncfusion .NET PDF library - Knowledge Base](https://www.syncfusion.com/kb/windowsforms/pdf)
 * **EBooks:** [Syncfusion .NET PDF library - EBooks](https://www.syncfusion.com/succinctly-free-ebooks)
